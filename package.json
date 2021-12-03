@@ -1,0 +1,15 @@
+{
+  "name": "0mq-the-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hwclient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Casiano Rodriguez Leon <crguezl@ull.edu.es> (https://crguezl.github.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "zeromq": "^6.0.0-beta.6"
+  }
+}
